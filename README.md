@@ -1,6 +1,6 @@
  # **Hi, I'm Juliana** 👩‍💻 👋 
 ###  
-![GitHub Logo](ju_scudilio.png)
+![GitHub Logo](JULIANA SCUDILIO.png)
 
 ## Who am I?
 
